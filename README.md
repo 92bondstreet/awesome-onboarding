@@ -21,6 +21,18 @@ resource finding and visual exploration](http://digitalcommons.unl.edu/cgi/viewc
 1. [Continuously Improving Onboarding](http://tribehr.com/blog/continuously-improving-onboarding)
 1. [Alternative On-Boarding: Getting Employees Happy on Day One](http://www.talentmgt.com/blogs/1-all-onboard/post/alternative-on-boarding-getting-employees-happy-on-day-one)
 1. [Onboarding](http://www.ebaytechblog.com/2011/05/04/onboarding/#.VM1myVWG9Aw)
+1. [Why you don’t commit code on your first day](http://bowery.io/posts/why-no-commit-first-day/)
+1. [Deploy Code Your First Day](http://www.bignerdranch.com/blog/deploy-code-your-first-day/)
+1. [A developers first day at work](http://guillecarlos.com/developers-first-day-at-work.html)
+1. [From novice to protégé: how to onboard a developer at startup](https://ecommhub.com/blog/from-novice-to-protegehow-to-onboard-a-developer-at-a-start-up/)
+1. [Startup Life: Some Suggestions for Bringing New Developers Onboard](https://www.smartling.com/2012/01/04/startup-life-some-suggestions-for-bringing-new-developers-onboard/)
+1. [All On-board! Giving New Hires the Tools to Succeed](http://www.winterwyman.com/blog/all-board-giving-new-hires-tools-succeed)
+1. [Onboarding your new designer](https://medium.com/@theUXswitch/onboarding-your-new-designer-f23ec4f1c204)
+
+## Videos
+
+1. [Atlassian Bootcamp: How We Onboard New Developers](https://summit.atlassian.com/archives/2012/dev-speed/how-we-onboard-new-developers)
+1. [Onboard new developers, really fast](http://www.outsystems.com/videos/testimonials/onboard-new-developers/)
 
 ## Contribution
 

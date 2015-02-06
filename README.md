@@ -28,6 +28,7 @@ resource finding and visual exploration](http://digitalcommons.unl.edu/cgi/viewc
 1. [Startup Life: Some Suggestions for Bringing New Developers Onboard](https://www.smartling.com/2012/01/04/startup-life-some-suggestions-for-bringing-new-developers-onboard/)
 1. [All On-board! Giving New Hires the Tools to Succeed](http://www.winterwyman.com/blog/all-board-giving-new-hires-tools-succeed)
 1. [Onboarding your new designer](https://medium.com/@theUXswitch/onboarding-your-new-designer-f23ec4f1c204)
+1. [How to make your Developer On-boarding Process Idiot Proof(Resistant)](http://shiporgetoffthepot.com/how-to-make-your-developer-onboarding-process-idiot-proofresistant/)
 
 ## Videos
 

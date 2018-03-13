@@ -18,7 +18,7 @@ resource finding and visual exploration](http://digitalcommons.unl.edu/cgi/viewc
 1. [How to Build an Onboarding Plan for a New Hire](http://www.inc.com/guides/2010/04/building-an-onboarding-plan.html)
 1. [The First Day On The Job](http://www.inc.com/magazine/19860601/8052.html)
 1. [Bizarre Hiring Rituals](http://www.inc.com/magazine/20100301/bizarre-hiring-rituals.html)
-1. [Continuously Improving Onboarding](http://tribehr.com/blog/continuously-improving-onboarding)
+1. [Continuously Improving Onboarding (Archive.org)](https://web.archive.org/web/20150701000000*/http://www.tribehr.com/blog/continuously-improving-onboarding)
 1. [Alternative On-Boarding: Getting Employees Happy on Day One](http://www.talentmgt.com/blogs/1-all-onboard/post/alternative-on-boarding-getting-employees-happy-on-day-one)
 1. [Onboarding](http://www.ebaytechblog.com/2011/05/04/onboarding/#.VM1myVWG9Aw)
 1. [Why you don’t commit code on your first day](http://bowery.io/posts/why-no-commit-first-day/)

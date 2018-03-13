@@ -21,7 +21,7 @@ resource finding and visual exploration](http://digitalcommons.unl.edu/cgi/viewc
 1. [Continuously Improving Onboarding (Archive.org)](https://web.archive.org/web/20150701000000*/http://www.tribehr.com/blog/continuously-improving-onboarding)
 1. [Alternative On-Boarding: Getting Employees Happy on Day One](http://www.talentmgt.com/blogs/1-all-onboard/post/alternative-on-boarding-getting-employees-happy-on-day-one)
 1. [Onboarding](http://www.ebaytechblog.com/2011/05/04/onboarding/#.VM1myVWG9Aw)
-1. [Why you don’t commit code on your first day](http://bowery.io/posts/why-no-commit-first-day/)
+1. [Why you don’t commit code on your first day (Archive.org)](https://web.archive.org/web/20150319042556/http://bowery.io/posts/why-no-commit-first-day/)
 1. [Deploy Code Your First Day](http://www.bignerdranch.com/blog/deploy-code-your-first-day/)
 1. [A developers first day at work](http://guillecarlos.com/developers-first-day-at-work.html)
 1. [From novice to protégé: how to onboard a developer at startup](https://ecommhub.com/blog/from-novice-to-protegehow-to-onboard-a-developer-at-a-start-up/)

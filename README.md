@@ -33,7 +33,6 @@ resource finding and visual exploration](http://digitalcommons.unl.edu/cgi/viewc
 ## Videos
 
 1. [Atlassian Bootcamp: How We Onboard New Developers](https://summit.atlassian.com/archives/2012/dev-speed/how-we-onboard-new-developers)
-1. [Onboard new developers, really fast](http://www.outsystems.com/videos/testimonials/onboard-new-developers/)
 
 ## Contribution
 

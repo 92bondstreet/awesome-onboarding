@@ -5,7 +5,6 @@ A curated list of awesome *onboarding new developers* resources.
 ## Articles & Posts
 
 1. [Onboarding New Hires with Trello](https://medium.com/@Liz_Hall1/onboarding-new-hires-with-trello-ecc87e87ffd5)
-1. [The Importance of Onboarding Developers](http://blog.careers.stackoverflow.com/2014/04/16/the-importance-of-onboarding-developers/)
 1. [Developer & employee onboarding best practices](http://fr.slideshare.net/mkomarev/developer-onboarding-best-practices)
 1. [If you want your new engineers to hit the ground running, give them a soft landing](https://blog.asana.com/2013/02/onboarding-new-engineers/)
 1. [Onboarding Junior Developers](https://ninefold.com/blog/2014/09/23/onboarding-junior-developers/)
